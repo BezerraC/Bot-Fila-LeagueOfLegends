@@ -13,8 +13,8 @@ def send_email(receiver_email):
         return
     
     # CONSTANTS THAT YOU SHOULD FILL IN
-    SENDER_EMAIL = "cbezerraneto@gmail.com" # Use your own email
-    PASSWORD = "ecobits123" 
+    SENDER_EMAIL = "YOUR_EMAIL" # Use your own email
+    PASSWORD = "YOUR_PASSWORD_EMAIL" 
     MESSAGE = "Sua fila no league of legends foi aceita!"
 
     # create message object instance
