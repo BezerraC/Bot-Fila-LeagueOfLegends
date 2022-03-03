@@ -1,3 +1,7 @@
+#-----------------------#
+# ALL PRINT IS IN PT-BR
+#-----------------------#
+
 import pyautogui
 from time import sleep
 import smtplib, ssl
